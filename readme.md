@@ -38,7 +38,7 @@ Combined with a few python scripts, J.A.R.V.I.S now performs quite a few tasks:
 - ### Gives a brief system status.
 
     **Talk to J.A.R.V.I.S :** how are you? / System report / System Status<br>
-    **J.A.R.V.I.S :** I am fine, sir. All systems are at 100 percent. Battery percentage: 100%. Battery state: discharging. 265 processes are currently running. Current volume is 30 percent
+    **J.A.R.V.I.S :** I am fine, sir. All systems are at 100 percent. Battery percentage: 100%. Battery state: discharging. 268 processes are currently running. Current volume is 30 percent
 
 - ### Suggests Googling for all unrecognized interrogative questions
 
