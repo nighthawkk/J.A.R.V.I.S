@@ -5,7 +5,7 @@ m = alsaaudio.Mixer()
 vol = m.getvolume()
 
 def getVolume():
-	global vol
+	global vol #global volume variable
 	return vol[0]
 
 def increase(n):
