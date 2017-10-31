@@ -6,7 +6,7 @@ An attempt to make a very simple, Personal Assistant that understands speech as 
 This project is based on AIML 1.0 and uses pyaiml for using the AIML interpreter in python. AIML, is based on pattern matching and this project does not implement any sort of machine learning or language processing.
 Combined with a few python scripts, J.A.R.V.I.S now performs quite a few tasks:
 
-- ### Converses, barely.
+- #### Converses, barely.
 
     **Talk to J.A.R.V.I.S :** hello<br>
     **J.A.R.V.I.S :** Well, hello
@@ -19,7 +19,7 @@ Combined with a few python scripts, J.A.R.V.I.S now performs quite a few tasks:
 
     All conversation is only for the hardcoded patterns, which are quite few. Can be easily extended to add AIML scripts of ALICE and other existing AIs.
 
-- ### Rhythmbox: Play, Pause, Open.
+- #### Rhythmbox: Play, Pause, Open.
 
     Uses shell commands to play and pause rhythmbox music.
 
@@ -30,7 +30,7 @@ Combined with a few python scripts, J.A.R.V.I.S now performs quite a few tasks:
     **Talk to J.A.R.V.I.S :** please open rhythmbox jarvis<br>
     **J.A.R.V.I.S :** Right away, sir!
 
-- ### Tells time.
+- #### Tells time.
     
     **Talk to J.A.R.V.I.S :** what time is it?<br>
     **J.A.R.V.I.S :** The time is 4 43 am
