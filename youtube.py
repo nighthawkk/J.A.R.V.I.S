@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import sys
 
 flag = 0
-textToSearch = 'hello world'
+textToSearch = 'hello world' #initial  to search
 query = sys.argv[1].strip("\"").replace(" ","+")
 url = "https://www.youtube.com/results?search_query=" + query
 response = urllib2.urlopen(url)
