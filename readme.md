@@ -7,7 +7,7 @@ This project is based on AIML 1.0 and uses pyaiml for using the AIML interpreter
 Combined with a few python scripts, J.A.R.V.I.S now performs quite a few tasks:
 
 - ### Converses, barely.
-
+      
     **Talk to J.A.R.V.I.S :** hello<br>
     **J.A.R.V.I.S :** Well, hello
 
@@ -94,7 +94,6 @@ Combined with a few python scripts, J.A.R.V.I.S now performs quite a few tasks:
     **J.A.R.V.I.S :** I don't know how to answer that. Maybe I could interest you in something else.<br>
 
     **Talk to J.A.R.V.I.S :** go to sleep / exit / quit / bye / goodbye
-
     closes the python script.
 
 ## Requirements:
