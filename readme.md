@@ -133,7 +133,7 @@ Run script as:
 
 `python script.py text` : for text mode of input
 
-`python script.py voice` : for voice mode of input
+`python script.py voice` : for voice mode of input.
 
 Voice mode may give a series of warnings for numerous reasons, but still might fuction properly.
 
